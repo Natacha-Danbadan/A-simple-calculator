@@ -5,6 +5,10 @@ let calculator=(number)=> {
     // another way to write this 
     // display.value+=number;
 }
+let calculate=(num)=> {
+    display.value += '00' ;
+  
+}
 
 let Result=()=> {
     try {
